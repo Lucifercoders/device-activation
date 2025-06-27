@@ -1,0 +1,2 @@
+# device-activation
+verification list
